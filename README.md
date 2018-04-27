@@ -7,4 +7,4 @@ Desenvolvimento de um pequeno projeto CRUD utilizando o acesso a banco de dados 
 - Uso do framework Bootstrap para realização de um layout responsivo para o projeto.
 
 
-Demostração: http://5511showroom.com.br/teste_ns
+DEMO: http://5511showroom.com.br/teste_ns
